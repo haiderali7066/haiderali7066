@@ -1,52 +1,48 @@
-<h1 align="center">Hi 👋, I'm Haider Ali</h1>
-<h3 align="center">🚀 MERN Stack Developer | Pakistan</h3>
+<h1 align="center">Hi, I'm Haider Ali</h1>
+<h3 align="center">Crafting digital experiences with cutting-edge technologies</h3>
 
 <p align="center">
-  <a href="https://github.com/haiderali7066">
-    <img src="https://komarev.com/ghpvc/?username=haiderali7066&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
-  </a>
+  <a href="https://github.com/haiderali7066"><strong>View My Work</strong></a> ·
+  <a href="https://your-cv-link.com"><strong>Download CV</strong></a>
 </p>
 
 ---
 
-### 🌟 About Me
-- 🔭 Currently building **Cotton Core – E-Commerce Store (MERN)**
-- 🌱 Learning **Next.js, GraphQL & Cloud Deployment**
-- 💬 Ask me about **MERN, REST APIs, Authentication**
-- ⚡ Fun fact: *I break things to fix them better 😅*
+###  Skills & Expertise
+
+**Tech Stack**  
+- React – 95%  
+- Node.js – 92%  
+- Tailwind CSS – 95%  
+- Next.js – 90%  
+- MongoDB – 90%
+
+*(Feel free to mirror the exact categories and ratings from your website—like Frameworks, Databases, Tools, etc.)*
 
 ---
 
-### 🚀 Tech Stack
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,tailwind,git,github,vscode" />
-</p>
+###  Featured Projects
+
+- **Marketing Website** – *Next.js · Tailwind CSS · Framer Motion*  
+  [Demo](#) · [Code](#)
+
+- **E-Commerce Platform** – *React · Node.js · MongoDB*  
+  [Demo](#) · [Code](#)
+
+- **Business Website** – *HTML · CSS · JavaScript*  
+  [Demo](#) · [Code](#)
+
+*(Add as many as you'd like — match the same selection and order from your portfolio)*
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=haiderali7066&show_icons=true&theme=tokyonight" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haiderali7066&layout=compact&theme=tokyonight" height="180px"/>
-</p>
+###  Get In Touch
+
+- **Email**: haideraliqurban7066@gmail.com  
+- **Location**: Lahore, Pakistan  
+- **WhatsApp**: +92 325 6036 838  
+- **Telegram**: @YourTelegramHandle
 
 ---
 
-### 🔥 Streak Stats
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=haiderali7066&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-### ✨ Featured Project
-🚀 [Cotton Core – MERN E-Commerce Store](https://github.com/your-repo-link)  
-*Oversized & Printed Tees, Trousers, and Zeen Pants – built for the Pakistani market.*
-
----
-
-### 📫 Connect with Me
-<p>
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="mailto:youremail@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" /></a>
-</p>
+© 2025 Haider Ali. All rights reserved.
