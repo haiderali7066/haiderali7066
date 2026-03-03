@@ -1,6 +1,6 @@
 <!-- Intro -->
 <h1 align="center">Hi 👋, I'm Haider Ali</h1>
-<h3 align="center">🚀 MERN Stack Developer | Open Source Enthusiast</h3>
+<h3 align="center">🚀 MERN/Next.js Developer | Open Source Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7F7&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer;MERN+Stack+Specialist;Always+Learning+New+Techs" alt="Typing SVG" />
