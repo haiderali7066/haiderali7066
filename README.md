@@ -114,19 +114,11 @@ Mission:
 
 ---
 
-# 📈 GitHub Analytics
+# 📊 Contribution Graph
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=haiderali7066&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haiderali7066&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=haiderali7066&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=haiderali7066&theme=tokyo-night"/>
 
 </p>
 
@@ -142,13 +134,7 @@ Mission:
 
 ---
 
-# 📈 Contribution Activity
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=haiderali7066&theme=tokyo-night&hide_border=true"/>
-
-</div>
 
 ---
 
