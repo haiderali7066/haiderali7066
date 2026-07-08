@@ -114,23 +114,21 @@ Mission:
 
 ---
 
-# 📊 GitHub Analytics
+# 📈 GitHub Analytics
 
-<div align="center">
+<p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=haiderali7066&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=haiderali7066&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haiderali7066&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haiderali7066&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</div>
+</p>
 
-<br>
-
-<div align="center">
+<p align="center">
 
 <img src="https://streak-stats.demolab.com?user=haiderali7066&theme=tokyonight&hide_border=true"/>
 
-</div>
+</p>
 
 ---
 
