@@ -2,122 +2,153 @@
 
 # 👋 Hi, I'm Haider Ali
 
-### 🚀 Full Stack Developer | MERN Stack | Next.js | TypeScript
+### 🚀 Software Engineer • Full Stack Developer • Mobile App Developer • Founder & CEO of DEVNTOM Solutions
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=3B82F6&center=true&vCenter=true&width=850&lines=Software+Engineer;Full+Stack+Developer;Mobile+App+Developer;MERN+%7C+Next.js+%7C+React+Native;Building+Scalable+Digital+Products;Founder+%40+DEVNTOM+Solutions;Turning+Ideas+Into+Reality" />
 
 <p>
-Building scalable web applications with modern technologies.<br>
-Passionate about clean code, UI/UX, backend architecture, and solving real-world problems.
-</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Developer;Next.js+%7C+React+%7C+Node.js;Building+Modern+Web+Applications;Always+Learning+Something+New" />
+<a href="https://github.com/haiderali7066">
+<img src="https://komarev.com/ghpvc/?username=haiderali7066&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+</a>
+
+</p>
 
 </div>
 
 ---
 
-# 💫 About Me
+# 💼 About Me
 
-💻 Full Stack Web Developer
+I'm **Haider Ali**, a passionate **Software Engineer** from Pakistan specializing in building modern digital products for startups, businesses, and enterprises.
 
-⚡ Specialized in MERN Stack & Next.js
+I develop high-performance **Web Applications**, **Mobile Applications**, **Business Software**, **AI-powered Solutions**, and **Enterprise Management Systems** with a strong focus on scalability, performance, and user experience.
 
-🌱 Currently learning Backend Architecture, AI Integrations & Cloud
-
-🎯 Goal: Build world-class SaaS products and scalable business applications
-
-❤️ Love creating beautiful UI with high-performance backend systems
+As the **Founder & CEO of DEVNTOM Solutions**, I help businesses transform ideas into secure, scalable, and production-ready software.
 
 ---
 
-# 🌐 Connect With Me
+## 🚀 What I Build
 
-<p align="left">
+🌐 Modern Websites
 
-<a href="mailto:haideraliqurban7066@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+💻 Enterprise Software
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+📱 Android & iOS Applications
 
-<a href="https://wa.me/923256036838">
-<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-</a>
+🛒 E-Commerce Platforms
 
-<a href="https://github.com/haiderali7066">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+🏢 ERP & CRM Systems
 
-</p>
+🎓 Learning Management Systems (LMS)
+
+🏥 Hospital & Clinic Management Systems
+
+🏪 POS & Inventory Systems
+
+🤖 AI-Powered Applications
+
+📊 Dashboards & Admin Panels
+
+☁️ Cloud-Based Business Solutions
 
 ---
 
-# 🚀 Tech Stack
+# 🛠 Tech Stack
 
-### Frontend
+## Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,vite" />
 </p>
 
-### Backend
+## Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,supabase" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,supabase,postgres,mysql" />
 </p>
 
-### Tools
+## Mobile Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,vercel" />
+<img src="https://skillicons.dev/icons?i=react,flutter" />
+</p>
+
+## Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=js,ts,python,java" />
+</p>
+
+## Cloud & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=vercel,docker,github,git,linux,cloudflare" />
+</p>
+
+## Design & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,figma,postman,photoshop,npm" />
 </p>
 
 ---
 
 # 🚀 Featured Projects
 
-## 🛍️ Cotton Core
+## 🛍 Cotton Core
 
-Modern MERN E-Commerce Platform
+Premium Fashion E-Commerce Platform
 
-- Authentication
-- Cart & Wishlist
-- Stripe Payments
-- Admin Dashboard
+- Complete Admin Dashboard
+- Secure Authentication
+- Online Payments
 - Product Management
-- Responsive UI
-
-🔗 Repository:
-https://github.com/yourusername/cotton-core
+- Orders & Shipping
+- Analytics
 
 ---
 
 ## 🎓 Skills Aura
 
-Learning Management System
+Professional Learning Management System
 
 - Student Portal
-- Admin Dashboard
+- Admin Panel
 - Branch Management
-- Course Enrollment
+- Online Enrollment
 - Payment Management
 - CMS
 
 ---
 
-## 🩸 TPO
+## 📱 TPO
 
-Android Period Tracker App
+Smart Period Tracker Mobile App
 
-- Cycle Tracking
-- Fertility Prediction
-- Calendar
+- Cycle Prediction
+- Pregnancy Window
+- Calendar Tracking
+- Notifications
 - Health Insights
 
 ---
 
-# 📊 GitHub Analytics
+## 🏪 Grocery ERP
+
+Complete Retail Management System
+
+- POS
+- Inventory
+- Accounting
+- Suppliers
+- Orders
+- Reports
+- Tax Management
+
+---
+
+# 📈 GitHub Analytics
 
 <p align="center">
 
@@ -139,13 +170,13 @@ Android Period Tracker App
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=haiderali7066&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=haiderali7066&theme=algolia&column=4&margin-w=15"/>
 
 </p>
 
 ---
 
-# 📈 Activity Graph
+# 📊 Contribution Graph
 
 <p align="center">
 
@@ -155,24 +186,88 @@ Android Period Tracker App
 
 ---
 
-# 💻 Profile Views
+# 🌍 DEVNTOM Solutions
 
-<p>
+At **DEVNTOM Solutions**, we build modern software that helps businesses grow.
 
-<img src="https://komarev.com/ghpvc/?username=haiderali7066&label=Profile%20Views&color=0e75b6&style=flat"/>
+### Services
 
-</p>
+✔ Custom Software Development
+
+✔ Website Development
+
+✔ Mobile App Development
+
+✔ AI Solutions
+
+✔ SaaS Development
+
+✔ UI/UX Design
+
+✔ Cloud Deployment
+
+✔ API Development
+
+✔ Admin Dashboards
+
+✔ Business Automation
 
 ---
 
-# ✨ Quote
+# 🎯 Currently Working On
 
-> "Great software is built one commit at a time."
+- AI Applications
+- SaaS Platforms
+- Mobile Applications
+- Enterprise Software
+- ERP Systems
+- Modern Admin Dashboards
 
 ---
 
-<p align="center">
+# 🤝 Open For
 
-<img src="https://raw.githubusercontent.com/haiderali7066/haiderali7066/output/github-contribution-grid-snake.svg"/>
+✅ Freelance Projects
 
-</p>
+✅ Startup Collaboration
+
+✅ Remote Opportunities
+
+✅ Long-Term Development
+
+✅ Open Source Contributions
+
+---
+
+# 📫 Contact Me
+
+📧 **Email**
+> haideraliqurban7066@gmail.com
+
+📱 **WhatsApp**
+> +92 325 6036838
+
+🐙 **GitHub**
+> https://github.com/haiderali7066
+
+🌐 **Portfolio**
+> Coming Soon...
+
+🏢 **Company**
+> DEVNTOM Solutions
+
+---
+
+# 💡 Developer Philosophy
+
+> "Great software isn't just code—it's solving real problems with simplicity, performance, and innovation."
+
+---
+
+<div align="center">
+
+### Thanks for visiting my profile ❤️
+
+<img src="https://raw.githubusercontent.com/haiderali7066/haiderali7066/output/github-contribution-grid-snake.svg" />
+
+</div>
