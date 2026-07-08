@@ -1,273 +1,197 @@
 <div align="center">
 
-# 👋 Hi, I'm Haider Ali
+# 👋 Hey, I'm Haider Ali
 
-### 🚀 Software Engineer • Full Stack Developer • Mobile App Developer • Founder & CEO of DEVNTOM Solutions
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1200&color=3B82F6&center=true&vCenter=true&width=900&lines=Software+Engineer;Full+Stack+Developer;Mobile+App+Developer;AI+Enthusiast;Founder+%26+CEO+of+DEVNTOM+Solutions;Building+Scalable+Digital+Experiences;Always+Learning+Something+New+🚀" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=3B82F6&center=true&vCenter=true&width=850&lines=Software+Engineer;Full+Stack+Developer;Mobile+App+Developer;MERN+%7C+Next.js+%7C+React+Native;Building+Scalable+Digital+Products;Founder+%40+DEVNTOM+Solutions;Turning+Ideas+Into+Reality" />
+<br>
 
 <p>
-
-<a href="https://github.com/haiderali7066">
-<img src="https://komarev.com/ghpvc/?username=haiderali7066&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
-</a>
-
+<img src="https://komarev.com/ghpvc/?username=haiderali7066&label=PROFILE+VIEWS&style=for-the-badge&color=2563EB"/>
+<img src="https://img.shields.io/github/followers/haiderali7066?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/github/stars/haiderali7066?style=for-the-badge&logo=github"/>
 </p>
+
+### 💻 Software Engineer • 🌐 Full Stack Developer • 📱 Mobile App Developer
+
+### Founder & CEO — DEVNTOM Solutions
+
+---
+
+### *"Transforming Ideas Into Powerful Digital Products."*
+
+</div>
+
+<br>
+
+# 💫 About Me
+
+```yaml
+Name: Haider Ali
+
+Location: Pakistan 🇵🇰
+
+Company: DEVNTOM Solutions
+
+Role:
+  - Software Engineer
+  - Full Stack Developer
+  - Mobile App Developer
+  - Founder & CEO
+
+Specialization:
+  - Scalable Software
+  - Modern Web Applications
+  - Android Applications
+  - AI Integrations
+  - Business Automation
+
+Currently Learning:
+  - AI Engineering
+  - Cloud Technologies
+  - System Design
+  - Scalable Architectures
+
+Mission:
+  Build software that creates real-world impact.
+```
+
+---
+
+# ⚡ Tech Arsenal
+
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=js,ts,python,java"/>
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,redux,vite"/>
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,supabase,firebase"/>
+
+### Mobile
+
+<img src="https://skillicons.dev/icons?i=react,flutter"/>
+
+### DevOps & Cloud
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,vercel,linux,cloudflare"/>
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=vscode,figma,postman,npm"/>
 
 </div>
 
 ---
 
-# 💼 About Me
+# 🌎 Connect With Me
 
-I'm **Haider Ali**, a passionate **Software Engineer** from Pakistan specializing in building modern digital products for startups, businesses, and enterprises.
+<div align="center">
 
-I develop high-performance **Web Applications**, **Mobile Applications**, **Business Software**, **AI-powered Solutions**, and **Enterprise Management Systems** with a strong focus on scalability, performance, and user experience.
+<a href="mailto:haideraliqurban7066@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-As the **Founder & CEO of DEVNTOM Solutions**, I help businesses transform ideas into secure, scalable, and production-ready software.
+<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
----
+<a href="https://wa.me/923256036838">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
 
-## 🚀 What I Build
+<a href="https://github.com/haiderali7066">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-🌐 Modern Websites
-
-💻 Enterprise Software
-
-📱 Android & iOS Applications
-
-🛒 E-Commerce Platforms
-
-🏢 ERP & CRM Systems
-
-🎓 Learning Management Systems (LMS)
-
-🏥 Hospital & Clinic Management Systems
-
-🏪 POS & Inventory Systems
-
-🤖 AI-Powered Applications
-
-📊 Dashboards & Admin Panels
-
-☁️ Cloud-Based Business Solutions
+</div>
 
 ---
 
-# 🛠 Tech Stack
+# 📊 GitHub Analytics
 
-## Frontend
+<div align="center">
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,vite" />
-</p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=haiderali7066&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-## Backend
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haiderali7066&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,supabase,postgres,mysql" />
-</p>
+</div>
 
-## Mobile Development
+<br>
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,flutter" />
-</p>
-
-## Programming Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=js,ts,python,java" />
-</p>
-
-## Cloud & DevOps
-
-<p>
-<img src="https://skillicons.dev/icons?i=vercel,docker,github,git,linux,cloudflare" />
-</p>
-
-## Design & Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=vscode,figma,postman,photoshop,npm" />
-</p>
-
----
-
-# 🚀 Featured Projects
-
-## 🛍 Cotton Core
-
-Premium Fashion E-Commerce Platform
-
-- Complete Admin Dashboard
-- Secure Authentication
-- Online Payments
-- Product Management
-- Orders & Shipping
-- Analytics
-
----
-
-## 🎓 Skills Aura
-
-Professional Learning Management System
-
-- Student Portal
-- Admin Panel
-- Branch Management
-- Online Enrollment
-- Payment Management
-- CMS
-
----
-
-## 📱 TPO
-
-Smart Period Tracker Mobile App
-
-- Cycle Prediction
-- Pregnancy Window
-- Calendar Tracking
-- Notifications
-- Health Insights
-
----
-
-## 🏪 Grocery ERP
-
-Complete Retail Management System
-
-- POS
-- Inventory
-- Accounting
-- Suppliers
-- Orders
-- Reports
-- Tax Management
-
----
-
-# 📈 GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=haiderali7066&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haiderali7066&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
+<div align="center">
 
 <img src="https://streak-stats.demolab.com?user=haiderali7066&theme=tokyonight&hide_border=true"/>
 
-</p>
+</div>
 
 ---
 
-# 🏆 GitHub Trophies
+# 🏆 Achievements
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=haiderali7066&theme=algolia&column=4&margin-w=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=haiderali7066&theme=algolia&no-frame=true&margin-w=15&column=4"/>
 
-</p>
-
----
-
-# 📊 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=haiderali7066&theme=tokyo-night"/>
-
-</p>
+</div>
 
 ---
 
-# 🌍 DEVNTOM Solutions
+# 📈 Contribution Activity
 
-At **DEVNTOM Solutions**, we build modern software that helps businesses grow.
+<div align="center">
 
-### Services
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=haiderali7066&theme=tokyo-night&hide_border=true"/>
 
-✔ Custom Software Development
-
-✔ Website Development
-
-✔ Mobile App Development
-
-✔ AI Solutions
-
-✔ SaaS Development
-
-✔ UI/UX Design
-
-✔ Cloud Deployment
-
-✔ API Development
-
-✔ Admin Dashboards
-
-✔ Business Automation
+</div>
 
 ---
 
-# 🎯 Currently Working On
+# 🎯 Current Focus
 
-- AI Applications
-- SaaS Platforms
-- Mobile Applications
-- Enterprise Software
-- ERP Systems
-- Modern Admin Dashboards
+```text
+🚀 Building High-Performance Software
 
----
+💡 Exploring Artificial Intelligence
 
-# 🤝 Open For
+📱 Creating Mobile Applications
 
-✅ Freelance Projects
+🌐 Developing Enterprise Web Platforms
 
-✅ Startup Collaboration
+⚡ Designing Scalable Backend Systems
 
-✅ Remote Opportunities
-
-✅ Long-Term Development
-
-✅ Open Source Contributions
+☁️ Learning Modern Cloud Architecture
+```
 
 ---
 
-# 📫 Contact Me
+# 💭 Philosophy
 
-📧 **Email**
-> haideraliqurban7066@gmail.com
+<div align="center">
 
-📱 **WhatsApp**
-> +92 325 6036838
+## "Code with Purpose. Build with Passion. Innovate Without Limits."
 
-🐙 **GitHub**
-> https://github.com/haiderali7066
+Software is more than writing code—it's about solving problems, creating meaningful experiences, and building technology that empowers people and businesses.
 
-🌐 **Portfolio**
-> Coming Soon...
-
-🏢 **Company**
-> DEVNTOM Solutions
-
----
-
-# 💡 Developer Philosophy
-
-> "Great software isn't just code—it's solving real problems with simplicity, performance, and innovation."
+</div>
 
 ---
 
 <div align="center">
 
-### Thanks for visiting my profile ❤️
+<img src="https://raw.githubusercontent.com/haiderali7066/haiderali7066/output/github-contribution-grid-snake.svg"/>
 
-<img src="https://raw.githubusercontent.com/haiderali7066/haiderali7066/output/github-contribution-grid-snake.svg" />
+<br><br>
+
+### ⭐ Thanks for visiting my profile!
+
+*"Let's build something amazing together."*
 
 </div>
