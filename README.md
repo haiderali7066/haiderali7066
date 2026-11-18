@@ -14,7 +14,7 @@
 
 ### 💻 Software Engineer • 🌐 Full Stack Developer • 📱 Mobile App Developer
 
-### Founder & CEO — DEVNTOM Solutions
+### Founder & CEO — Devntom Solutions
 
 ---
 
